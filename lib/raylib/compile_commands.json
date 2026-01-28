@@ -1,0 +1,1088 @@
+[
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:/raylib/raylib/src -isystem C:/raylib/raylib/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o raylib\\CMakeFiles\\raylib.dir\\raudio.c.obj -c C:\\raylib\\raylib\\src\\raudio.c",
+  "file": "C:/raylib/raylib/src/raudio.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/CMakeFiles/raylib.dir/raudio.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:/raylib/raylib/src -isystem C:/raylib/raylib/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o raylib\\CMakeFiles\\raylib.dir\\rcore.c.obj -c C:\\raylib\\raylib\\src\\rcore.c",
+  "file": "C:/raylib/raylib/src/rcore.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/CMakeFiles/raylib.dir/rcore.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:/raylib/raylib/src -isystem C:/raylib/raylib/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o raylib\\CMakeFiles\\raylib.dir\\rmodels.c.obj -c C:\\raylib\\raylib\\src\\rmodels.c",
+  "file": "C:/raylib/raylib/src/rmodels.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/CMakeFiles/raylib.dir/rmodels.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:/raylib/raylib/src -isystem C:/raylib/raylib/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o raylib\\CMakeFiles\\raylib.dir\\rshapes.c.obj -c C:\\raylib\\raylib\\src\\rshapes.c",
+  "file": "C:/raylib/raylib/src/rshapes.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/CMakeFiles/raylib.dir/rshapes.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:/raylib/raylib/src -isystem C:/raylib/raylib/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o raylib\\CMakeFiles\\raylib.dir\\rtext.c.obj -c C:\\raylib\\raylib\\src\\rtext.c",
+  "file": "C:/raylib/raylib/src/rtext.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/CMakeFiles/raylib.dir/rtext.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:/raylib/raylib/src -isystem C:/raylib/raylib/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o raylib\\CMakeFiles\\raylib.dir\\rtextures.c.obj -c C:\\raylib\\raylib\\src\\rtextures.c",
+  "file": "C:/raylib/raylib/src/rtextures.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/CMakeFiles/raylib.dir/rtextures.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:/raylib/raylib/src -isystem C:/raylib/raylib/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o raylib\\CMakeFiles\\raylib.dir\\utils.c.obj -c C:\\raylib\\raylib\\src\\utils.c",
+  "file": "C:/raylib/raylib/src/utils.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/CMakeFiles/raylib.dir/utils.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/raylib/raylib/src/external/glfw/include -IC:/raylib/raylib/src/external/glfw/src -IC:/raylib/raylib/cmake-build-release/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fdiagnostics-color=always -Wall -o raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\context.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/context.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/external/glfw/src/CMakeFiles/glfw.dir/context.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/raylib/raylib/src/external/glfw/include -IC:/raylib/raylib/src/external/glfw/src -IC:/raylib/raylib/cmake-build-release/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fdiagnostics-color=always -Wall -o raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\init.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/init.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/external/glfw/src/CMakeFiles/glfw.dir/init.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/raylib/raylib/src/external/glfw/include -IC:/raylib/raylib/src/external/glfw/src -IC:/raylib/raylib/cmake-build-release/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fdiagnostics-color=always -Wall -o raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\input.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/input.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/external/glfw/src/CMakeFiles/glfw.dir/input.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/raylib/raylib/src/external/glfw/include -IC:/raylib/raylib/src/external/glfw/src -IC:/raylib/raylib/cmake-build-release/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fdiagnostics-color=always -Wall -o raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\monitor.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/monitor.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/external/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/raylib/raylib/src/external/glfw/include -IC:/raylib/raylib/src/external/glfw/src -IC:/raylib/raylib/cmake-build-release/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fdiagnostics-color=always -Wall -o raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\platform.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\platform.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/platform.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/external/glfw/src/CMakeFiles/glfw.dir/platform.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/raylib/raylib/src/external/glfw/include -IC:/raylib/raylib/src/external/glfw/src -IC:/raylib/raylib/cmake-build-release/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fdiagnostics-color=always -Wall -o raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\vulkan.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/vulkan.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/external/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/raylib/raylib/src/external/glfw/include -IC:/raylib/raylib/src/external/glfw/src -IC:/raylib/raylib/cmake-build-release/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fdiagnostics-color=always -Wall -o raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\window.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/window.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/external/glfw/src/CMakeFiles/glfw.dir/window.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/raylib/raylib/src/external/glfw/include -IC:/raylib/raylib/src/external/glfw/src -IC:/raylib/raylib/cmake-build-release/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fdiagnostics-color=always -Wall -o raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\egl_context.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/egl_context.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/external/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/raylib/raylib/src/external/glfw/include -IC:/raylib/raylib/src/external/glfw/src -IC:/raylib/raylib/cmake-build-release/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fdiagnostics-color=always -Wall -o raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\osmesa_context.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/osmesa_context.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/external/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/raylib/raylib/src/external/glfw/include -IC:/raylib/raylib/src/external/glfw/src -IC:/raylib/raylib/cmake-build-release/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fdiagnostics-color=always -Wall -o raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_init.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\null_init.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/null_init.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_init.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/raylib/raylib/src/external/glfw/include -IC:/raylib/raylib/src/external/glfw/src -IC:/raylib/raylib/cmake-build-release/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fdiagnostics-color=always -Wall -o raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_monitor.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\null_monitor.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/null_monitor.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/raylib/raylib/src/external/glfw/include -IC:/raylib/raylib/src/external/glfw/src -IC:/raylib/raylib/cmake-build-release/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fdiagnostics-color=always -Wall -o raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_window.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\null_window.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/null_window.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/raylib/raylib/src/external/glfw/include -IC:/raylib/raylib/src/external/glfw/src -IC:/raylib/raylib/cmake-build-release/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fdiagnostics-color=always -Wall -o raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_joystick.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\null_joystick.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/null_joystick.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/raylib/raylib/src/external/glfw/include -IC:/raylib/raylib/src/external/glfw/src -IC:/raylib/raylib/cmake-build-release/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fdiagnostics-color=always -Wall -o raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_module.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\win32_module.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/win32_module.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/raylib/raylib/src/external/glfw/include -IC:/raylib/raylib/src/external/glfw/src -IC:/raylib/raylib/cmake-build-release/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fdiagnostics-color=always -Wall -o raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\win32_time.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/win32_time.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/raylib/raylib/src/external/glfw/include -IC:/raylib/raylib/src/external/glfw/src -IC:/raylib/raylib/cmake-build-release/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fdiagnostics-color=always -Wall -o raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\win32_thread.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/win32_thread.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/raylib/raylib/src/external/glfw/include -IC:/raylib/raylib/src/external/glfw/src -IC:/raylib/raylib/cmake-build-release/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fdiagnostics-color=always -Wall -o raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\win32_init.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/win32_init.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/raylib/raylib/src/external/glfw/include -IC:/raylib/raylib/src/external/glfw/src -IC:/raylib/raylib/cmake-build-release/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fdiagnostics-color=always -Wall -o raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\win32_joystick.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/win32_joystick.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/raylib/raylib/src/external/glfw/include -IC:/raylib/raylib/src/external/glfw/src -IC:/raylib/raylib/cmake-build-release/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fdiagnostics-color=always -Wall -o raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\win32_monitor.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/win32_monitor.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/raylib/raylib/src/external/glfw/include -IC:/raylib/raylib/src/external/glfw/src -IC:/raylib/raylib/cmake-build-release/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fdiagnostics-color=always -Wall -o raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\win32_window.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/win32_window.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -IC:/raylib/raylib/src/external/glfw/include -IC:/raylib/raylib/src/external/glfw/src -IC:/raylib/raylib/cmake-build-release/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=c99 -fdiagnostics-color=always -Wall -o raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\wgl_context.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/wgl_context.c",
+  "output": "C:/raylib/raylib/cmake-build-release/raylib/external/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\audio_mixed_processor.dir\\audio\\audio_mixed_processor.c.obj -c C:\\raylib\\raylib\\examples\\audio\\audio_mixed_processor.c",
+  "file": "C:/raylib/raylib/examples/audio/audio_mixed_processor.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/audio_mixed_processor.dir/audio/audio_mixed_processor.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\audio_module_playing.dir\\audio\\audio_module_playing.c.obj -c C:\\raylib\\raylib\\examples\\audio\\audio_module_playing.c",
+  "file": "C:/raylib/raylib/examples/audio/audio_module_playing.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/audio_module_playing.dir/audio/audio_module_playing.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\audio_music_stream.dir\\audio\\audio_music_stream.c.obj -c C:\\raylib\\raylib\\examples\\audio\\audio_music_stream.c",
+  "file": "C:/raylib/raylib/examples/audio/audio_music_stream.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/audio_music_stream.dir/audio/audio_music_stream.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\audio_raw_stream.dir\\audio\\audio_raw_stream.c.obj -c C:\\raylib\\raylib\\examples\\audio\\audio_raw_stream.c",
+  "file": "C:/raylib/raylib/examples/audio/audio_raw_stream.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/audio_raw_stream.dir/audio/audio_raw_stream.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\audio_sound_loading.dir\\audio\\audio_sound_loading.c.obj -c C:\\raylib\\raylib\\examples\\audio\\audio_sound_loading.c",
+  "file": "C:/raylib/raylib/examples/audio/audio_sound_loading.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/audio_sound_loading.dir/audio/audio_sound_loading.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\audio_sound_multi.dir\\audio\\audio_sound_multi.c.obj -c C:\\raylib\\raylib\\examples\\audio\\audio_sound_multi.c",
+  "file": "C:/raylib/raylib/examples/audio/audio_sound_multi.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/audio_sound_multi.dir/audio/audio_sound_multi.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\audio_stream_effects.dir\\audio\\audio_stream_effects.c.obj -c C:\\raylib\\raylib\\examples\\audio\\audio_stream_effects.c",
+  "file": "C:/raylib/raylib/examples/audio/audio_stream_effects.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/audio_stream_effects.dir/audio/audio_stream_effects.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_2d_camera.dir\\core\\core_2d_camera.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_2d_camera.c",
+  "file": "C:/raylib/raylib/examples/core/core_2d_camera.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_2d_camera.dir/core/core_2d_camera.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_2d_camera_mouse_zoom.dir\\core\\core_2d_camera_mouse_zoom.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_2d_camera_mouse_zoom.c",
+  "file": "C:/raylib/raylib/examples/core/core_2d_camera_mouse_zoom.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_2d_camera_mouse_zoom.dir/core/core_2d_camera_mouse_zoom.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_2d_camera_platformer.dir\\core\\core_2d_camera_platformer.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_2d_camera_platformer.c",
+  "file": "C:/raylib/raylib/examples/core/core_2d_camera_platformer.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_2d_camera_platformer.dir/core/core_2d_camera_platformer.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_2d_camera_split_screen.dir\\core\\core_2d_camera_split_screen.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_2d_camera_split_screen.c",
+  "file": "C:/raylib/raylib/examples/core/core_2d_camera_split_screen.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_2d_camera_split_screen.dir/core/core_2d_camera_split_screen.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_3d_camera_first_person.dir\\core\\core_3d_camera_first_person.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_3d_camera_first_person.c",
+  "file": "C:/raylib/raylib/examples/core/core_3d_camera_first_person.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_3d_camera_first_person.dir/core/core_3d_camera_first_person.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_3d_camera_free.dir\\core\\core_3d_camera_free.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_3d_camera_free.c",
+  "file": "C:/raylib/raylib/examples/core/core_3d_camera_free.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_3d_camera_free.dir/core/core_3d_camera_free.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_3d_camera_mode.dir\\core\\core_3d_camera_mode.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_3d_camera_mode.c",
+  "file": "C:/raylib/raylib/examples/core/core_3d_camera_mode.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_3d_camera_mode.dir/core/core_3d_camera_mode.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_3d_camera_split_screen.dir\\core\\core_3d_camera_split_screen.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_3d_camera_split_screen.c",
+  "file": "C:/raylib/raylib/examples/core/core_3d_camera_split_screen.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_3d_camera_split_screen.dir/core/core_3d_camera_split_screen.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_3d_picking.dir\\core\\core_3d_picking.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_3d_picking.c",
+  "file": "C:/raylib/raylib/examples/core/core_3d_picking.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_3d_picking.dir/core/core_3d_picking.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_automation_events.dir\\core\\core_automation_events.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_automation_events.c",
+  "file": "C:/raylib/raylib/examples/core/core_automation_events.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_automation_events.dir/core/core_automation_events.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_basic_screen_manager.dir\\core\\core_basic_screen_manager.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_basic_screen_manager.c",
+  "file": "C:/raylib/raylib/examples/core/core_basic_screen_manager.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_basic_screen_manager.dir/core/core_basic_screen_manager.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_basic_window.dir\\core\\core_basic_window.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_basic_window.c",
+  "file": "C:/raylib/raylib/examples/core/core_basic_window.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_basic_window.dir/core/core_basic_window.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_basic_window_web.dir\\core\\core_basic_window_web.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_basic_window_web.c",
+  "file": "C:/raylib/raylib/examples/core/core_basic_window_web.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_basic_window_web.dir/core/core_basic_window_web.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_custom_frame_control.dir\\core\\core_custom_frame_control.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_custom_frame_control.c",
+  "file": "C:/raylib/raylib/examples/core/core_custom_frame_control.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_custom_frame_control.dir/core/core_custom_frame_control.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_custom_logging.dir\\core\\core_custom_logging.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_custom_logging.c",
+  "file": "C:/raylib/raylib/examples/core/core_custom_logging.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_custom_logging.dir/core/core_custom_logging.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_drop_files.dir\\core\\core_drop_files.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_drop_files.c",
+  "file": "C:/raylib/raylib/examples/core/core_drop_files.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_drop_files.dir/core/core_drop_files.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_input_gamepad.dir\\core\\core_input_gamepad.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_input_gamepad.c",
+  "file": "C:/raylib/raylib/examples/core/core_input_gamepad.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_input_gamepad.dir/core/core_input_gamepad.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_input_gamepad_info.dir\\core\\core_input_gamepad_info.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_input_gamepad_info.c",
+  "file": "C:/raylib/raylib/examples/core/core_input_gamepad_info.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_input_gamepad_info.dir/core/core_input_gamepad_info.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_input_gestures.dir\\core\\core_input_gestures.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_input_gestures.c",
+  "file": "C:/raylib/raylib/examples/core/core_input_gestures.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_input_gestures.dir/core/core_input_gestures.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_input_gestures_web.dir\\core\\core_input_gestures_web.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_input_gestures_web.c",
+  "file": "C:/raylib/raylib/examples/core/core_input_gestures_web.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_input_gestures_web.dir/core/core_input_gestures_web.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_input_keys.dir\\core\\core_input_keys.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_input_keys.c",
+  "file": "C:/raylib/raylib/examples/core/core_input_keys.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_input_keys.dir/core/core_input_keys.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_input_mouse.dir\\core\\core_input_mouse.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_input_mouse.c",
+  "file": "C:/raylib/raylib/examples/core/core_input_mouse.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_input_mouse.dir/core/core_input_mouse.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_input_mouse_wheel.dir\\core\\core_input_mouse_wheel.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_input_mouse_wheel.c",
+  "file": "C:/raylib/raylib/examples/core/core_input_mouse_wheel.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_input_mouse_wheel.dir/core/core_input_mouse_wheel.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_input_multitouch.dir\\core\\core_input_multitouch.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_input_multitouch.c",
+  "file": "C:/raylib/raylib/examples/core/core_input_multitouch.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_input_multitouch.dir/core/core_input_multitouch.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_input_virtual_controls.dir\\core\\core_input_virtual_controls.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_input_virtual_controls.c",
+  "file": "C:/raylib/raylib/examples/core/core_input_virtual_controls.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_input_virtual_controls.dir/core/core_input_virtual_controls.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_loading_thread.dir\\core\\core_loading_thread.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_loading_thread.c",
+  "file": "C:/raylib/raylib/examples/core/core_loading_thread.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_loading_thread.dir/core/core_loading_thread.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_random_sequence.dir\\core\\core_random_sequence.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_random_sequence.c",
+  "file": "C:/raylib/raylib/examples/core/core_random_sequence.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_random_sequence.dir/core/core_random_sequence.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_random_values.dir\\core\\core_random_values.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_random_values.c",
+  "file": "C:/raylib/raylib/examples/core/core_random_values.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_random_values.dir/core/core_random_values.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_scissor_test.dir\\core\\core_scissor_test.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_scissor_test.c",
+  "file": "C:/raylib/raylib/examples/core/core_scissor_test.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_scissor_test.dir/core/core_scissor_test.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_smooth_pixelperfect.dir\\core\\core_smooth_pixelperfect.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_smooth_pixelperfect.c",
+  "file": "C:/raylib/raylib/examples/core/core_smooth_pixelperfect.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_smooth_pixelperfect.dir/core/core_smooth_pixelperfect.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_storage_values.dir\\core\\core_storage_values.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_storage_values.c",
+  "file": "C:/raylib/raylib/examples/core/core_storage_values.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_storage_values.dir/core/core_storage_values.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_vr_simulator.dir\\core\\core_vr_simulator.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_vr_simulator.c",
+  "file": "C:/raylib/raylib/examples/core/core_vr_simulator.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_vr_simulator.dir/core/core_vr_simulator.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_window_flags.dir\\core\\core_window_flags.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_window_flags.c",
+  "file": "C:/raylib/raylib/examples/core/core_window_flags.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_window_flags.dir/core/core_window_flags.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_window_letterbox.dir\\core\\core_window_letterbox.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_window_letterbox.c",
+  "file": "C:/raylib/raylib/examples/core/core_window_letterbox.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_window_letterbox.dir/core/core_window_letterbox.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_window_should_close.dir\\core\\core_window_should_close.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_window_should_close.c",
+  "file": "C:/raylib/raylib/examples/core/core_window_should_close.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_window_should_close.dir/core/core_window_should_close.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\core_world_screen.dir\\core\\core_world_screen.c.obj -c C:\\raylib\\raylib\\examples\\core\\core_world_screen.c",
+  "file": "C:/raylib/raylib/examples/core/core_world_screen.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/core_world_screen.dir/core/core_world_screen.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\models_animation.dir\\models\\models_animation.c.obj -c C:\\raylib\\raylib\\examples\\models\\models_animation.c",
+  "file": "C:/raylib/raylib/examples/models/models_animation.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/models_animation.dir/models/models_animation.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\models_billboard.dir\\models\\models_billboard.c.obj -c C:\\raylib\\raylib\\examples\\models\\models_billboard.c",
+  "file": "C:/raylib/raylib/examples/models/models_billboard.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/models_billboard.dir/models/models_billboard.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\models_bone_socket.dir\\models\\models_bone_socket.c.obj -c C:\\raylib\\raylib\\examples\\models\\models_bone_socket.c",
+  "file": "C:/raylib/raylib/examples/models/models_bone_socket.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/models_bone_socket.dir/models/models_bone_socket.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\models_box_collisions.dir\\models\\models_box_collisions.c.obj -c C:\\raylib\\raylib\\examples\\models\\models_box_collisions.c",
+  "file": "C:/raylib/raylib/examples/models/models_box_collisions.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/models_box_collisions.dir/models/models_box_collisions.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\models_cubicmap.dir\\models\\models_cubicmap.c.obj -c C:\\raylib\\raylib\\examples\\models\\models_cubicmap.c",
+  "file": "C:/raylib/raylib/examples/models/models_cubicmap.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/models_cubicmap.dir/models/models_cubicmap.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\models_draw_cube_texture.dir\\models\\models_draw_cube_texture.c.obj -c C:\\raylib\\raylib\\examples\\models\\models_draw_cube_texture.c",
+  "file": "C:/raylib/raylib/examples/models/models_draw_cube_texture.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/models_draw_cube_texture.dir/models/models_draw_cube_texture.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\models_first_person_maze.dir\\models\\models_first_person_maze.c.obj -c C:\\raylib\\raylib\\examples\\models\\models_first_person_maze.c",
+  "file": "C:/raylib/raylib/examples/models/models_first_person_maze.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/models_first_person_maze.dir/models/models_first_person_maze.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\models_geometric_shapes.dir\\models\\models_geometric_shapes.c.obj -c C:\\raylib\\raylib\\examples\\models\\models_geometric_shapes.c",
+  "file": "C:/raylib/raylib/examples/models/models_geometric_shapes.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/models_geometric_shapes.dir/models/models_geometric_shapes.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\models_gpu_skinning.dir\\models\\models_gpu_skinning.c.obj -c C:\\raylib\\raylib\\examples\\models\\models_gpu_skinning.c",
+  "file": "C:/raylib/raylib/examples/models/models_gpu_skinning.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/models_gpu_skinning.dir/models/models_gpu_skinning.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\models_heightmap.dir\\models\\models_heightmap.c.obj -c C:\\raylib\\raylib\\examples\\models\\models_heightmap.c",
+  "file": "C:/raylib/raylib/examples/models/models_heightmap.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/models_heightmap.dir/models/models_heightmap.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\models_loading.dir\\models\\models_loading.c.obj -c C:\\raylib\\raylib\\examples\\models\\models_loading.c",
+  "file": "C:/raylib/raylib/examples/models/models_loading.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/models_loading.dir/models/models_loading.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\models_loading_gltf.dir\\models\\models_loading_gltf.c.obj -c C:\\raylib\\raylib\\examples\\models\\models_loading_gltf.c",
+  "file": "C:/raylib/raylib/examples/models/models_loading_gltf.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/models_loading_gltf.dir/models/models_loading_gltf.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\models_loading_m3d.dir\\models\\models_loading_m3d.c.obj -c C:\\raylib\\raylib\\examples\\models\\models_loading_m3d.c",
+  "file": "C:/raylib/raylib/examples/models/models_loading_m3d.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/models_loading_m3d.dir/models/models_loading_m3d.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\models_loading_vox.dir\\models\\models_loading_vox.c.obj -c C:\\raylib\\raylib\\examples\\models\\models_loading_vox.c",
+  "file": "C:/raylib/raylib/examples/models/models_loading_vox.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/models_loading_vox.dir/models/models_loading_vox.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\models_mesh_generation.dir\\models\\models_mesh_generation.c.obj -c C:\\raylib\\raylib\\examples\\models\\models_mesh_generation.c",
+  "file": "C:/raylib/raylib/examples/models/models_mesh_generation.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/models_mesh_generation.dir/models/models_mesh_generation.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\models_mesh_picking.dir\\models\\models_mesh_picking.c.obj -c C:\\raylib\\raylib\\examples\\models\\models_mesh_picking.c",
+  "file": "C:/raylib/raylib/examples/models/models_mesh_picking.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/models_mesh_picking.dir/models/models_mesh_picking.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\models_orthographic_projection.dir\\models\\models_orthographic_projection.c.obj -c C:\\raylib\\raylib\\examples\\models\\models_orthographic_projection.c",
+  "file": "C:/raylib/raylib/examples/models/models_orthographic_projection.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/models_orthographic_projection.dir/models/models_orthographic_projection.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\models_point_rendering.dir\\models\\models_point_rendering.c.obj -c C:\\raylib\\raylib\\examples\\models\\models_point_rendering.c",
+  "file": "C:/raylib/raylib/examples/models/models_point_rendering.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/models_point_rendering.dir/models/models_point_rendering.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\models_rlgl_solar_system.dir\\models\\models_rlgl_solar_system.c.obj -c C:\\raylib\\raylib\\examples\\models\\models_rlgl_solar_system.c",
+  "file": "C:/raylib/raylib/examples/models/models_rlgl_solar_system.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/models_rlgl_solar_system.dir/models/models_rlgl_solar_system.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\models_skybox.dir\\models\\models_skybox.c.obj -c C:\\raylib\\raylib\\examples\\models\\models_skybox.c",
+  "file": "C:/raylib/raylib/examples/models/models_skybox.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/models_skybox.dir/models/models_skybox.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\models_waving_cubes.dir\\models\\models_waving_cubes.c.obj -c C:\\raylib\\raylib\\examples\\models\\models_waving_cubes.c",
+  "file": "C:/raylib/raylib/examples/models/models_waving_cubes.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/models_waving_cubes.dir/models/models_waving_cubes.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\models_yaw_pitch_roll.dir\\models\\models_yaw_pitch_roll.c.obj -c C:\\raylib\\raylib\\examples\\models\\models_yaw_pitch_roll.c",
+  "file": "C:/raylib/raylib/examples/models/models_yaw_pitch_roll.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/models_yaw_pitch_roll.dir/models/models_yaw_pitch_roll.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\easings_testbed.dir\\others\\easings_testbed.c.obj -c C:\\raylib\\raylib\\examples\\others\\easings_testbed.c",
+  "file": "C:/raylib/raylib/examples/others/easings_testbed.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/easings_testbed.dir/others/easings_testbed.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\embedded_files_loading.dir\\others\\embedded_files_loading.c.obj -c C:\\raylib\\raylib\\examples\\others\\embedded_files_loading.c",
+  "file": "C:/raylib/raylib/examples/others/embedded_files_loading.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/embedded_files_loading.dir/others/embedded_files_loading.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\raylib_opengl_interop.dir\\others\\raylib_opengl_interop.c.obj -c C:\\raylib\\raylib\\examples\\others\\raylib_opengl_interop.c",
+  "file": "C:/raylib/raylib/examples/others/raylib_opengl_interop.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/raylib_opengl_interop.dir/others/raylib_opengl_interop.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\raymath_vector_angle.dir\\others\\raymath_vector_angle.c.obj -c C:\\raylib\\raylib\\examples\\others\\raymath_vector_angle.c",
+  "file": "C:/raylib/raylib/examples/others/raymath_vector_angle.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/raymath_vector_angle.dir/others/raymath_vector_angle.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\rlgl_compute_shader.dir\\others\\rlgl_compute_shader.c.obj -c C:\\raylib\\raylib\\examples\\others\\rlgl_compute_shader.c",
+  "file": "C:/raylib/raylib/examples/others/rlgl_compute_shader.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/rlgl_compute_shader.dir/others/rlgl_compute_shader.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\rlgl_standalone.dir\\others\\rlgl_standalone.c.obj -c C:\\raylib\\raylib\\examples\\others\\rlgl_standalone.c",
+  "file": "C:/raylib/raylib/examples/others/rlgl_standalone.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/rlgl_standalone.dir/others/rlgl_standalone.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_basic_lighting.dir\\shaders\\shaders_basic_lighting.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_basic_lighting.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_basic_lighting.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_basic_lighting.dir/shaders/shaders_basic_lighting.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_basic_pbr.dir\\shaders\\shaders_basic_pbr.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_basic_pbr.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_basic_pbr.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_basic_pbr.dir/shaders/shaders_basic_pbr.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_custom_uniform.dir\\shaders\\shaders_custom_uniform.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_custom_uniform.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_custom_uniform.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_custom_uniform.dir/shaders/shaders_custom_uniform.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_deferred_render.dir\\shaders\\shaders_deferred_render.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_deferred_render.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_deferred_render.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_deferred_render.dir/shaders/shaders_deferred_render.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_eratosthenes.dir\\shaders\\shaders_eratosthenes.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_eratosthenes.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_eratosthenes.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_eratosthenes.dir/shaders/shaders_eratosthenes.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_fog.dir\\shaders\\shaders_fog.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_fog.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_fog.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_fog.dir/shaders/shaders_fog.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_hot_reloading.dir\\shaders\\shaders_hot_reloading.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_hot_reloading.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_hot_reloading.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_hot_reloading.dir/shaders/shaders_hot_reloading.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_hybrid_render.dir\\shaders\\shaders_hybrid_render.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_hybrid_render.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_hybrid_render.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_hybrid_render.dir/shaders/shaders_hybrid_render.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_julia_set.dir\\shaders\\shaders_julia_set.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_julia_set.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_julia_set.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_julia_set.dir/shaders/shaders_julia_set.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_lightmap.dir\\shaders\\shaders_lightmap.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_lightmap.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_lightmap.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_lightmap.dir/shaders/shaders_lightmap.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_mesh_instancing.dir\\shaders\\shaders_mesh_instancing.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_mesh_instancing.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_mesh_instancing.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_mesh_instancing.dir/shaders/shaders_mesh_instancing.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_model_shader.dir\\shaders\\shaders_model_shader.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_model_shader.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_model_shader.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_model_shader.dir/shaders/shaders_model_shader.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_multi_sample2d.dir\\shaders\\shaders_multi_sample2d.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_multi_sample2d.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_multi_sample2d.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_multi_sample2d.dir/shaders/shaders_multi_sample2d.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_palette_switch.dir\\shaders\\shaders_palette_switch.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_palette_switch.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_palette_switch.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_palette_switch.dir/shaders/shaders_palette_switch.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_postprocessing.dir\\shaders\\shaders_postprocessing.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_postprocessing.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_postprocessing.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_postprocessing.dir/shaders/shaders_postprocessing.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_raymarching.dir\\shaders\\shaders_raymarching.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_raymarching.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_raymarching.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_raymarching.dir/shaders/shaders_raymarching.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_shadowmap.dir\\shaders\\shaders_shadowmap.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_shadowmap.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_shadowmap.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_shadowmap.dir/shaders/shaders_shadowmap.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_shapes_textures.dir\\shaders\\shaders_shapes_textures.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_shapes_textures.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_shapes_textures.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_shapes_textures.dir/shaders/shaders_shapes_textures.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_simple_mask.dir\\shaders\\shaders_simple_mask.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_simple_mask.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_simple_mask.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_simple_mask.dir/shaders/shaders_simple_mask.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_spotlight.dir\\shaders\\shaders_spotlight.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_spotlight.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_spotlight.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_spotlight.dir/shaders/shaders_spotlight.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_texture_drawing.dir\\shaders\\shaders_texture_drawing.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_texture_drawing.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_texture_drawing.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_texture_drawing.dir/shaders/shaders_texture_drawing.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_texture_outline.dir\\shaders\\shaders_texture_outline.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_texture_outline.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_texture_outline.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_texture_outline.dir/shaders/shaders_texture_outline.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_texture_tiling.dir\\shaders\\shaders_texture_tiling.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_texture_tiling.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_texture_tiling.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_texture_tiling.dir/shaders/shaders_texture_tiling.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_texture_waves.dir\\shaders\\shaders_texture_waves.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_texture_waves.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_texture_waves.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_texture_waves.dir/shaders/shaders_texture_waves.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_vertex_displacement.dir\\shaders\\shaders_vertex_displacement.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_vertex_displacement.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_vertex_displacement.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_vertex_displacement.dir/shaders/shaders_vertex_displacement.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shaders_write_depth.dir\\shaders\\shaders_write_depth.c.obj -c C:\\raylib\\raylib\\examples\\shaders\\shaders_write_depth.c",
+  "file": "C:/raylib/raylib/examples/shaders/shaders_write_depth.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shaders_write_depth.dir/shaders/shaders_write_depth.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shapes_basic_shapes.dir\\shapes\\shapes_basic_shapes.c.obj -c C:\\raylib\\raylib\\examples\\shapes\\shapes_basic_shapes.c",
+  "file": "C:/raylib/raylib/examples/shapes/shapes_basic_shapes.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shapes_basic_shapes.dir/shapes/shapes_basic_shapes.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shapes_bouncing_ball.dir\\shapes\\shapes_bouncing_ball.c.obj -c C:\\raylib\\raylib\\examples\\shapes\\shapes_bouncing_ball.c",
+  "file": "C:/raylib/raylib/examples/shapes/shapes_bouncing_ball.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shapes_bouncing_ball.dir/shapes/shapes_bouncing_ball.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shapes_collision_area.dir\\shapes\\shapes_collision_area.c.obj -c C:\\raylib\\raylib\\examples\\shapes\\shapes_collision_area.c",
+  "file": "C:/raylib/raylib/examples/shapes/shapes_collision_area.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shapes_collision_area.dir/shapes/shapes_collision_area.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shapes_colors_palette.dir\\shapes\\shapes_colors_palette.c.obj -c C:\\raylib\\raylib\\examples\\shapes\\shapes_colors_palette.c",
+  "file": "C:/raylib/raylib/examples/shapes/shapes_colors_palette.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shapes_colors_palette.dir/shapes/shapes_colors_palette.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shapes_draw_circle_sector.dir\\shapes\\shapes_draw_circle_sector.c.obj -c C:\\raylib\\raylib\\examples\\shapes\\shapes_draw_circle_sector.c",
+  "file": "C:/raylib/raylib/examples/shapes/shapes_draw_circle_sector.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shapes_draw_circle_sector.dir/shapes/shapes_draw_circle_sector.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shapes_draw_rectangle_rounded.dir\\shapes\\shapes_draw_rectangle_rounded.c.obj -c C:\\raylib\\raylib\\examples\\shapes\\shapes_draw_rectangle_rounded.c",
+  "file": "C:/raylib/raylib/examples/shapes/shapes_draw_rectangle_rounded.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shapes_draw_rectangle_rounded.dir/shapes/shapes_draw_rectangle_rounded.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shapes_draw_ring.dir\\shapes\\shapes_draw_ring.c.obj -c C:\\raylib\\raylib\\examples\\shapes\\shapes_draw_ring.c",
+  "file": "C:/raylib/raylib/examples/shapes/shapes_draw_ring.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shapes_draw_ring.dir/shapes/shapes_draw_ring.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shapes_easings_ball_anim.dir\\shapes\\shapes_easings_ball_anim.c.obj -c C:\\raylib\\raylib\\examples\\shapes\\shapes_easings_ball_anim.c",
+  "file": "C:/raylib/raylib/examples/shapes/shapes_easings_ball_anim.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shapes_easings_ball_anim.dir/shapes/shapes_easings_ball_anim.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shapes_easings_box_anim.dir\\shapes\\shapes_easings_box_anim.c.obj -c C:\\raylib\\raylib\\examples\\shapes\\shapes_easings_box_anim.c",
+  "file": "C:/raylib/raylib/examples/shapes/shapes_easings_box_anim.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shapes_easings_box_anim.dir/shapes/shapes_easings_box_anim.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shapes_easings_rectangle_array.dir\\shapes\\shapes_easings_rectangle_array.c.obj -c C:\\raylib\\raylib\\examples\\shapes\\shapes_easings_rectangle_array.c",
+  "file": "C:/raylib/raylib/examples/shapes/shapes_easings_rectangle_array.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shapes_easings_rectangle_array.dir/shapes/shapes_easings_rectangle_array.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shapes_following_eyes.dir\\shapes\\shapes_following_eyes.c.obj -c C:\\raylib\\raylib\\examples\\shapes\\shapes_following_eyes.c",
+  "file": "C:/raylib/raylib/examples/shapes/shapes_following_eyes.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shapes_following_eyes.dir/shapes/shapes_following_eyes.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shapes_lines_bezier.dir\\shapes\\shapes_lines_bezier.c.obj -c C:\\raylib\\raylib\\examples\\shapes\\shapes_lines_bezier.c",
+  "file": "C:/raylib/raylib/examples/shapes/shapes_lines_bezier.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shapes_lines_bezier.dir/shapes/shapes_lines_bezier.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shapes_logo_raylib.dir\\shapes\\shapes_logo_raylib.c.obj -c C:\\raylib\\raylib\\examples\\shapes\\shapes_logo_raylib.c",
+  "file": "C:/raylib/raylib/examples/shapes/shapes_logo_raylib.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shapes_logo_raylib.dir/shapes/shapes_logo_raylib.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shapes_logo_raylib_anim.dir\\shapes\\shapes_logo_raylib_anim.c.obj -c C:\\raylib\\raylib\\examples\\shapes\\shapes_logo_raylib_anim.c",
+  "file": "C:/raylib/raylib/examples/shapes/shapes_logo_raylib_anim.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shapes_logo_raylib_anim.dir/shapes/shapes_logo_raylib_anim.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shapes_rectangle_advanced.dir\\shapes\\shapes_rectangle_advanced.c.obj -c C:\\raylib\\raylib\\examples\\shapes\\shapes_rectangle_advanced.c",
+  "file": "C:/raylib/raylib/examples/shapes/shapes_rectangle_advanced.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shapes_rectangle_advanced.dir/shapes/shapes_rectangle_advanced.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shapes_rectangle_scaling.dir\\shapes\\shapes_rectangle_scaling.c.obj -c C:\\raylib\\raylib\\examples\\shapes\\shapes_rectangle_scaling.c",
+  "file": "C:/raylib/raylib/examples/shapes/shapes_rectangle_scaling.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shapes_rectangle_scaling.dir/shapes/shapes_rectangle_scaling.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shapes_splines_drawing.dir\\shapes\\shapes_splines_drawing.c.obj -c C:\\raylib\\raylib\\examples\\shapes\\shapes_splines_drawing.c",
+  "file": "C:/raylib/raylib/examples/shapes/shapes_splines_drawing.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shapes_splines_drawing.dir/shapes/shapes_splines_drawing.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\shapes_top_down_lights.dir\\shapes\\shapes_top_down_lights.c.obj -c C:\\raylib\\raylib\\examples\\shapes\\shapes_top_down_lights.c",
+  "file": "C:/raylib/raylib/examples/shapes/shapes_top_down_lights.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/shapes_top_down_lights.dir/shapes/shapes_top_down_lights.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\text_codepoints_loading.dir\\text\\text_codepoints_loading.c.obj -c C:\\raylib\\raylib\\examples\\text\\text_codepoints_loading.c",
+  "file": "C:/raylib/raylib/examples/text/text_codepoints_loading.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/text_codepoints_loading.dir/text/text_codepoints_loading.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\text_draw_3d.dir\\text\\text_draw_3d.c.obj -c C:\\raylib\\raylib\\examples\\text\\text_draw_3d.c",
+  "file": "C:/raylib/raylib/examples/text/text_draw_3d.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/text_draw_3d.dir/text/text_draw_3d.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\text_font_filters.dir\\text\\text_font_filters.c.obj -c C:\\raylib\\raylib\\examples\\text\\text_font_filters.c",
+  "file": "C:/raylib/raylib/examples/text/text_font_filters.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/text_font_filters.dir/text/text_font_filters.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\text_font_loading.dir\\text\\text_font_loading.c.obj -c C:\\raylib\\raylib\\examples\\text\\text_font_loading.c",
+  "file": "C:/raylib/raylib/examples/text/text_font_loading.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/text_font_loading.dir/text/text_font_loading.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\text_font_sdf.dir\\text\\text_font_sdf.c.obj -c C:\\raylib\\raylib\\examples\\text\\text_font_sdf.c",
+  "file": "C:/raylib/raylib/examples/text/text_font_sdf.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/text_font_sdf.dir/text/text_font_sdf.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\text_font_spritefont.dir\\text\\text_font_spritefont.c.obj -c C:\\raylib\\raylib\\examples\\text\\text_font_spritefont.c",
+  "file": "C:/raylib/raylib/examples/text/text_font_spritefont.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/text_font_spritefont.dir/text/text_font_spritefont.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\text_format_text.dir\\text\\text_format_text.c.obj -c C:\\raylib\\raylib\\examples\\text\\text_format_text.c",
+  "file": "C:/raylib/raylib/examples/text/text_format_text.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/text_format_text.dir/text/text_format_text.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\text_input_box.dir\\text\\text_input_box.c.obj -c C:\\raylib\\raylib\\examples\\text\\text_input_box.c",
+  "file": "C:/raylib/raylib/examples/text/text_input_box.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/text_input_box.dir/text/text_input_box.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\text_raylib_fonts.dir\\text\\text_raylib_fonts.c.obj -c C:\\raylib\\raylib\\examples\\text\\text_raylib_fonts.c",
+  "file": "C:/raylib/raylib/examples/text/text_raylib_fonts.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/text_raylib_fonts.dir/text/text_raylib_fonts.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\text_rectangle_bounds.dir\\text\\text_rectangle_bounds.c.obj -c C:\\raylib\\raylib\\examples\\text\\text_rectangle_bounds.c",
+  "file": "C:/raylib/raylib/examples/text/text_rectangle_bounds.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/text_rectangle_bounds.dir/text/text_rectangle_bounds.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\text_unicode.dir\\text\\text_unicode.c.obj -c C:\\raylib\\raylib\\examples\\text\\text_unicode.c",
+  "file": "C:/raylib/raylib/examples/text/text_unicode.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/text_unicode.dir/text/text_unicode.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\text_writing_anim.dir\\text\\text_writing_anim.c.obj -c C:\\raylib\\raylib\\examples\\text\\text_writing_anim.c",
+  "file": "C:/raylib/raylib/examples/text/text_writing_anim.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/text_writing_anim.dir/text/text_writing_anim.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_background_scrolling.dir\\textures\\textures_background_scrolling.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_background_scrolling.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_background_scrolling.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_background_scrolling.dir/textures/textures_background_scrolling.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_blend_modes.dir\\textures\\textures_blend_modes.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_blend_modes.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_blend_modes.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_blend_modes.dir/textures/textures_blend_modes.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_bunnymark.dir\\textures\\textures_bunnymark.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_bunnymark.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_bunnymark.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_bunnymark.dir/textures/textures_bunnymark.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_draw_tiled.dir\\textures\\textures_draw_tiled.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_draw_tiled.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_draw_tiled.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_draw_tiled.dir/textures/textures_draw_tiled.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_fog_of_war.dir\\textures\\textures_fog_of_war.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_fog_of_war.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_fog_of_war.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_fog_of_war.dir/textures/textures_fog_of_war.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_gif_player.dir\\textures\\textures_gif_player.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_gif_player.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_gif_player.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_gif_player.dir/textures/textures_gif_player.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_image_channel.dir\\textures\\textures_image_channel.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_image_channel.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_image_channel.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_image_channel.dir/textures/textures_image_channel.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_image_drawing.dir\\textures\\textures_image_drawing.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_image_drawing.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_image_drawing.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_image_drawing.dir/textures/textures_image_drawing.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_image_generation.dir\\textures\\textures_image_generation.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_image_generation.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_image_generation.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_image_generation.dir/textures/textures_image_generation.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_image_kernel.dir\\textures\\textures_image_kernel.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_image_kernel.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_image_kernel.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_image_kernel.dir/textures/textures_image_kernel.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_image_loading.dir\\textures\\textures_image_loading.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_image_loading.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_image_loading.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_image_loading.dir/textures/textures_image_loading.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_image_processing.dir\\textures\\textures_image_processing.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_image_processing.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_image_processing.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_image_processing.dir/textures/textures_image_processing.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_image_rotate.dir\\textures\\textures_image_rotate.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_image_rotate.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_image_rotate.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_image_rotate.dir/textures/textures_image_rotate.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_image_text.dir\\textures\\textures_image_text.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_image_text.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_image_text.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_image_text.dir/textures/textures_image_text.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_logo_raylib.dir\\textures\\textures_logo_raylib.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_logo_raylib.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_logo_raylib.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_logo_raylib.dir/textures/textures_logo_raylib.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_mouse_painting.dir\\textures\\textures_mouse_painting.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_mouse_painting.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_mouse_painting.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_mouse_painting.dir/textures/textures_mouse_painting.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_npatch_drawing.dir\\textures\\textures_npatch_drawing.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_npatch_drawing.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_npatch_drawing.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_npatch_drawing.dir/textures/textures_npatch_drawing.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_particles_blending.dir\\textures\\textures_particles_blending.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_particles_blending.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_particles_blending.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_particles_blending.dir/textures/textures_particles_blending.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_polygon.dir\\textures\\textures_polygon.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_polygon.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_polygon.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_polygon.dir/textures/textures_polygon.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_raw_data.dir\\textures\\textures_raw_data.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_raw_data.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_raw_data.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_raw_data.dir/textures/textures_raw_data.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_sprite_anim.dir\\textures\\textures_sprite_anim.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_sprite_anim.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_sprite_anim.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_sprite_anim.dir/textures/textures_sprite_anim.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_sprite_button.dir\\textures\\textures_sprite_button.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_sprite_button.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_sprite_button.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_sprite_button.dir/textures/textures_sprite_button.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_sprite_explosion.dir\\textures\\textures_sprite_explosion.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_sprite_explosion.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_sprite_explosion.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_sprite_explosion.dir/textures/textures_sprite_explosion.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_srcrec_dstrec.dir\\textures\\textures_srcrec_dstrec.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_srcrec_dstrec.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_srcrec_dstrec.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_srcrec_dstrec.dir/textures/textures_srcrec_dstrec.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_textured_curve.dir\\textures\\textures_textured_curve.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_textured_curve.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_textured_curve.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_textured_curve.dir/textures/textures_textured_curve.c.obj"
+},
+{
+  "directory": "C:/raylib/raylib/cmake-build-release",
+  "command": "E:\\Program\\clion\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:/raylib/raylib/src -IC:/raylib/raylib/src/external/glfw/include -isystem C:/raylib/raylib/examples/others/external/include -std=c11 -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -std=gnu99 -fdiagnostics-color=always -o examples\\CMakeFiles\\textures_to_image.dir\\textures\\textures_to_image.c.obj -c C:\\raylib\\raylib\\examples\\textures\\textures_to_image.c",
+  "file": "C:/raylib/raylib/examples/textures/textures_to_image.c",
+  "output": "C:/raylib/raylib/cmake-build-release/examples/CMakeFiles/textures_to_image.dir/textures/textures_to_image.c.obj"
+}
+]

@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/raylib/raylib/cmake-build-release/cmake_install.cmake",
+		"C:/raylib/raylib/cmake-build-release/raylib/cmake_install.cmake",
+		"C:/raylib/raylib/cmake-build-release/raylib/external/glfw/cmake_install.cmake",
+		"C:/raylib/raylib/cmake-build-release/raylib/external/glfw/src/cmake_install.cmake",
+		"C:/raylib/raylib/cmake-build-release/examples/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
