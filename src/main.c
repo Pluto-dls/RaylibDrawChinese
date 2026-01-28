@@ -20,7 +20,7 @@ int main() {
         // 3. 可以手动添加一批新字符
         if (IsKeyDown(KEY_SPACE)) {
             DrawChineseText(&fontSystem, "新字符已添加：", 50, 150, 60, RED);
-            DrawChineseText(&fontSystem, "魑魅魍魉 ", 150, 350, 60, BLACK);
+            DrawChineseText(&fontSystem, "魑魅魍魉", 150, 350, 60, BLACK);
         }
 
         EndDrawing();
